@@ -15,6 +15,11 @@ A sleek and simple **Weather App** built using **HTML**, **CSS**, **JavaScript**
 - 🌙 Light and Dark mode *(if implemented)*
 
 ---
+## Live demo
+
+- ray-weather.vercel.app
+
+---
 
 ## 🛠️ Built With
 
