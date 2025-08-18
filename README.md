@@ -2,7 +2,8 @@
 
 A sleek and simple **Weather App** built using **HTML**, **CSS**, **JavaScript**, and a **RESTful API** to fetch real-time weather data. Created with ❤️ by [Rayzz](https://github.com/Luzisrepo).
 
-![Weather App Screenshot](https://your-screenshot-url.com) <!-- Optional: Replace with actual screenshot link -->
+<img width="1919" height="631" alt="image" src="https://github.com/user-attachments/assets/65b4c5a5-57c8-4c81-a871-51a60ea40d2d" />
+
 
 
 ## 🚀 Features
