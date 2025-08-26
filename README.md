@@ -13,7 +13,6 @@ A sleek and simple **Weather App** built using **HTML**, **CSS**, **JavaScript**
 - 🌡️ Displays temperature, humidity, wind speed, and weather conditions
 - 📍 Search by city name
 - 🎨 Clean and responsive UI
-- 🌙 Light and Dark mode *(if implemented)*
 
 ---
 ## Live demo
